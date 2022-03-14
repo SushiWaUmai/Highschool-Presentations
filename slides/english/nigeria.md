@@ -87,7 +87,6 @@ Eugene Matsumura
 
 ---
 
-
 # Pre-colonial History
 
 - The area that is now **Nigeria** has been inhabited for **hundred of thousands of years**
@@ -110,7 +109,7 @@ Eugene Matsumura
 <!-- There is also Culture in Nigeria -->
 ![bg left:80% fit](http://img.youtube.com/vi/9qDM6nreLDQ/0.jpg)
 
-[vid](https://youtu.be/9qDM6nreLDQ?t=30)
+[video](https://youtu.be/9qDM6nreLDQ?t=30)
 
 
 ---
@@ -137,10 +136,10 @@ Eugene Matsumura
 
 - Insufficient funding of schools
 <!-- Patriacic System -->
-- Women are less educated
-- bad political decisions
+- **Women** are **less educated**
+- **bad** political decisions
 <!-- Only 7% of Nigeria's budget invested in education -->
-- 13.2 millions children missing education
+- **13.2 million children** missing education
 <!-- and therefore out of school -->
 
 ---
@@ -152,7 +151,7 @@ Eugene Matsumura
 
 # Jobs
 ![bg fit vertical right](https://www.statista.com/graphic/1/812300/youth-unemployment-rate-in-nigeria.jpg)
-<!-- The Youth unemployment rate skyrocketed in the past few years -->
+<!-- The Youth unemployment rate skyrocketed in the past few years with a  steadily decreasing school attendence -->
 - Youth unemployment rate: **17.69%**
 
 ---
