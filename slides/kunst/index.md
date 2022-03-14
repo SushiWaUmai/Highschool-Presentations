@@ -7,11 +7,5 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 marp: true
 ---
 
-# Welcome to my presentation Website!
-
----
-
-## Here you can find all my slides
-
-- [English](./english)
-- [Kunst](./kunst)
+# Kunst
+- [Anita Berber Komposition](./anita-berber-komposition)
