@@ -8,4 +8,4 @@ marp: true
 
 # English
 
-- [Nigeria](./nigeria.md)
+- [Nigeria](./nigeria)

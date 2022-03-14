@@ -13,4 +13,4 @@ marp: true
 
 ## Here you can find all my slides
 
-- [English](./english/index.md)
+- [English](./english)
