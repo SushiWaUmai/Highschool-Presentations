@@ -9,3 +9,4 @@ marp: true
 
 # Kunst
 - [Anita Berber Komposition](./anita-berber-komposition)
+- [Anita Berber Interpretation](./anita-berber-interpretation)
