@@ -105,8 +105,13 @@ Eugene Matsumura
 
 ---
 
+<!-- _class: lead -->
+
 <!-- There is also Culture in Nigeria -->
-[![bg fit](http://img.youtube.com/vi/9qDM6nreLDQ/0.jpg)](https://youtu.be/9qDM6nreLDQ?t=30)
+![bg left:80% fit](http://img.youtube.com/vi/9qDM6nreLDQ/0.jpg)
+
+[vid](https://youtu.be/9qDM6nreLDQ?t=30)
+
 
 ---
 
