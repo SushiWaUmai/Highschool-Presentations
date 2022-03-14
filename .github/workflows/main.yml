@@ -15,6 +15,7 @@ jobs:
 
     - name: Build & Deploy to GitHub Pages
       env: 
+        # The output path needs to be named docs, since github pages only allows "docs" as the directory name
         MARP_ARGS: "-I ./slides -o ./docs"
 
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
