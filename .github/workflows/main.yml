@@ -1,0 +1,23 @@
+# Thanks to https://github.com/ralexander-phi/test-marp-action/blob/dev/.github/workflows/main.yml
+name: CI
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Project
+      uses: actions/checkout@v2
+
+    - name: Build & Deploy to GitHub Pages
+      env: 
+        MARP_ARGS: "-I ./slides -o ./"
+
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_REPOSITORY: ${{ github.repository }}
+        PUBLISH_TO_BRANCH: gh-pages
+      uses: ralexander-phi/marp-action@master
