@@ -8,7 +8,7 @@ marp: true
 
 <!-- _class: lead -->
 <!-- color: #FFF -->
-# Utopia vs Distopia
+# Utopia vs Dystopia
 
 ![bg brightness:30%](https://veronicasicoe.files.wordpress.com/2013/04/67c7e-utopiadystopia_smaller.jpg)
 
@@ -26,7 +26,7 @@ marp: true
 
 ---
 
-# Distopia
+# Dystopia
 - hierarchical society => class society
 - unpleasand, depressing, surveillance, patriarchy
 - environmental disasters (Climate change, floodings)
@@ -37,7 +37,7 @@ marp: true
 ---
 
 <!-- _class: lead -->
-# We always have utopian elemnts in distopian literature
+# We always have utopian elemnts in dystopian literature
 
 ---
 
