@@ -13,12 +13,15 @@ jobs:
     - name: Checkout Project
       uses: actions/checkout@v2
 
-    - name: Build & Deploy to GitHub Pages
-      env: 
-        # The output path needs to be named docs, since github pages only allows "docs" as the directory name
-        MARP_ARGS: "-I ./slides -o ./docs"
+    - name: Marp Build
+      uses: docker://marpteam/marp-cli:v1.7.0
+      with:
+        MARP_ARGS: "-I ./slides -o ./build/"
+      env:
+        MARP_USER: root:root
 
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GITHUB_REPOSITORY: ${{ github.repository }}
-        PUBLISH_TO_BRANCH: gh-pages
-      uses: ralexander-phi/marp-action@master
+    - name: Deploy production
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        branch: gh-pages
+        folder: ./build/
