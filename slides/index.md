@@ -15,3 +15,4 @@ marp: true
 
 - [English](./english)
 - [Kunst](./kunst)
+- [Sozialwissenschaften](./sowi)
