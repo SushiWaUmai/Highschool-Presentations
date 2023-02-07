@@ -6,6 +6,6 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 marp: true
 ---
 
-# English
+# Deutsch 
 
 - [Interaktionismus](./interaktionismus)
