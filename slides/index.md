@@ -14,5 +14,6 @@ marp: true
 ## Here you can find all my slides
 
 - [English](./english)
+- [Deutsch](./deutsch)
 - [Kunst](./kunst)
 - [Sozialwissenschaften](./sowi)
