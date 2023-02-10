@@ -30,7 +30,7 @@ marp: true
 
 ---
 
-## Kritik an Interaktionismus
+## Kritik am Interaktionismus
 - Kein experimentum crucis möglich
 - Möglicherweise lernt das Kind seine Muttersprache nicht oder nur mangelhaft und langsam, wenn es immer nur Erwachsenensprache hört
 
@@ -38,7 +38,7 @@ marp: true
 
 ---
 
-## Kritik an Interaktionismus
+## Kritik am Interaktionismus
 - Kinder haben beschrieben werden, die trotz fehlender Interaktion ihrer Mutter ihre Muttersprache erlernt haben
 - Babysprache der Mütter ist komplexer als die Sprache des Kindes
 - Analyse der Babysprache ist für das Kind trotzdem noch schwer
