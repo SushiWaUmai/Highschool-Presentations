@@ -49,3 +49,8 @@ marp: true
 - Der Interaktionismus geht davon aus, dass Spracherwerb in der Interaktion von Mutter und Kind stattfindet
 - Die Sprache, die verwendet wird, ist auf das Niveau des Kindes abgestimmt
 - Trotzdem gibt es Kritik an der Theorie, die experimentelle Beweise fordert und Zweifel an ihrer Erklärungskraft äußert.
+
+---
+
+## Quellen
+- Dieter E. Zimmer: Interaktionismus (2008)
