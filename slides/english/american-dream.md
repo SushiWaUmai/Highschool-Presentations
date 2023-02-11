@@ -56,6 +56,10 @@ marp: true
   - only form of government that works with the dream
   - everlasting rights
 
+---
+
+# Core concepts
+
 - Melting Pot
   - international
   - cutural exchange
