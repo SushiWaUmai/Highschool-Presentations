@@ -34,6 +34,10 @@ marp: true
   - Bill of Rights
   - Amendments
 
+---
+
+# Foundation
+
 - Government that is by and for the people, everything depends on the people
 - Prosperity - Freedom equal rights of everyone
 
