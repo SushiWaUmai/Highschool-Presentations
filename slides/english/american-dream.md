@@ -70,6 +70,10 @@ marp: true
   - western movement
   - people beyond the frontiers
 
+---
+
+# Core concepts
+
 - Success
   - being wealthy
   - captalism
@@ -102,6 +106,13 @@ marp: true
 # Criticism
 
 - unrealistic
+
+---
+
+# All in all
+
+- American Dream has evolved over time and continues to be redefined by each generation
+- It remains a powerful cultural force with a great influence on the American and therefore our society
 
 ---
 
