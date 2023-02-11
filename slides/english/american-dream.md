@@ -50,10 +50,13 @@ marp: true
 
 - Democracy
   - only form of government that works with the dream
+  - everlasting rights
 
 - Melting Pot
   - international
   - cutural exchange
+  - freedom of religion
+  - classless of society
 
 - Frontiers
   - western movement
@@ -61,6 +64,8 @@ marp: true
 
 - Success
   - being wealthy
+  - captalism
+  - little control from the government
 
 ---
 
@@ -72,5 +77,28 @@ marp: true
 - rasicm
 - imperialistic
 - materialism
+
+--- 
+
+# Criticism
+
+- American Nightmare
+- Police Violence
+- Drugs
+- Discrimination
+- Disparity
+
+
+--- 
+
+# Criticism
+
+- unrealistic
+
+---
+
+# Sources
+
+- https://www.youtube.com/watch?v=9Z-VmzY421Q
 
 ---
