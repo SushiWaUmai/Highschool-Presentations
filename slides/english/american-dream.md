@@ -16,6 +16,7 @@ marp: true
 
 <!-- color: -->
 # Definition
+B
 
 - Set of ideals which promise a better life
 - anyone, regardless of their background can achieve success through hard work
@@ -24,6 +25,7 @@ marp: true
 ---
 
 # Foundation
+E
 
 - Declaration of Independence (1776)
   - "All men are created equal"
@@ -37,6 +39,7 @@ marp: true
 ---
 
 # Foundation
+E
 
 - Government that is by and for the people, everything depends on the people
 - Prosperity - Freedom equal rights of everyone
@@ -44,6 +47,7 @@ marp: true
 ---
 
 # Core concepts
+B
 
 - Progress
   - Techological 
@@ -59,6 +63,7 @@ marp: true
 ---
 
 # Core concepts
+E
 
 - Melting Pot
   - international
@@ -73,6 +78,7 @@ marp: true
 ---
 
 # Core concepts
+E
 
 - Success
   - being wealthy
@@ -82,6 +88,7 @@ marp: true
 ---
 
 # Criticism
+B
 
 - things might not get better any longer
 - arrogance (why is america the only chosen country?)
@@ -93,6 +100,7 @@ marp: true
 --- 
 
 # Criticism
+E
 
 - American Nightmare
 - Police Violence
@@ -104,12 +112,14 @@ marp: true
 --- 
 
 # Criticism
+E
 
 - unrealistic
 
 ---
 
 # All in all
+E
 
 - American Dream has evolved over time and continues to be redefined by each generation
 - It remains a powerful cultural force with a great influence on the American and therefore our society
@@ -117,6 +127,7 @@ marp: true
 ---
 
 # Sources
+B
 
 - https://www.youtube.com/watch?v=9Z-VmzY421Q
 
